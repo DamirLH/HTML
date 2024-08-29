@@ -1,5 +1,5 @@
 
-<h1 style="color: #3f7320;text-align: center;">Добро пожаловать в <a style="font-weight: bold;" target="_blank" rel="nofollow noopener" href="https://ya.ru/">нашу команду!</a> </h1>
+<h1 style="color: #3f7320;text-align: center;">Добро пожаловать в <a style="font-weight: bold;" target="_blank" rel="nofollow noopener" href="https://yandex.ru/jobs">нашу команду!</a> </h1>
 <p>Для удобства работы с документами, полученными от курьера, пожалуйста, следуйте данной инструкции.</p>
 <h2 style="color: #3f7320; font-family: Arial">1. Ознакомление с документами:</h2>
 <ul>
